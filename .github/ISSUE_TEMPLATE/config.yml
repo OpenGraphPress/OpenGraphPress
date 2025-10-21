@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Documentation
+    url: https://www.opengraphpress.com/docs
+    about: Check out our comprehensive documentation and guides
+  - name: WordPress Support Forums
+    url: https://wordpress.org/support/plugin/opengraphpress/
+    about: Get community support and help from other users
+  - name: Official Website
+    url: https://www.opengraphpress.com
+    about: Visit our official website for more information
+  - name: Premium Support
+    url: https://www.opengraphpress.com/contact
+    about: Contact our support team for premium assistance
