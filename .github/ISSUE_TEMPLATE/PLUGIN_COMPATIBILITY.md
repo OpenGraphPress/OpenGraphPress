@@ -3,7 +3,7 @@ name: Plugin Compatibility Issue
 about: Report compatibility issues with other WordPress plugins or themes
 title: '[Compatibility]: Issue with [Plugin/Theme Name]'
 labels: COMPATIBILITY, BUG
-assignees: ''
+assignees: 'Abd-Ur-Rehman'
 
 ---
 

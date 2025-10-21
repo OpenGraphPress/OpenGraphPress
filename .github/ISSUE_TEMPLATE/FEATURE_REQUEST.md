@@ -3,7 +3,7 @@ name: Feature Request
 about: Suggest a new feature or enhancement for OpenGraphPress
 title: '[Feature]: '
 labels: ENHANCEMENT
-assignees: ''
+assignees: 'Abd-Ur-Rehman'
 
 ---
 

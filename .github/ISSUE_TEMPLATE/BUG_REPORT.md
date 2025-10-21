@@ -3,7 +3,7 @@ name: Bug Report
 about: Report a bug to help us improve OpenGraphPress
 title: '[Bug]: '
 labels: BUG
-assignees: ''
+assignees: 'Abd-Ur-Rehman'
 
 ---
 
